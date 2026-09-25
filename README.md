@@ -88,4 +88,5 @@ My day-to-day involves:
 
 ## 📫 Get in touch
 
-- GitHub: [@eduardobbrito](https://github.com/eduardobbrito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardobbrito/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardobbrito)
